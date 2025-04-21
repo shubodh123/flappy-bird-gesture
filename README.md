@@ -23,3 +23,6 @@ A fun twist on the classic Flappy Bird game—now controlled with your hand gest
    ```bash
    git clone https://github.com/your-username/gesture-flappy-bird.git
    cd gesture-flappy-bird
+Run this Game:
+python flappy_bird_gesture.py
+
